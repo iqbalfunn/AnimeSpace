@@ -1,0 +1,36 @@
+﻿<Page x:Class="AnimeSpace.View.PageHistory"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AnimeSpace.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="730" d:DesignWidth="1366"
+      Title="PageHistory"
+      Background="{DynamicResource MaterialDesignPaper}"
+      >
+
+    <Grid>
+        <Grid>
+            <ListView x:Name="LvHistory" Width="1000" Height="600"
+                  ItemsSource="{Binding}" Margin="283,80,83,50">
+
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="200" Header="Datetime"
+                        DisplayMemberBinding="{Binding waktu}"/>
+                        <GridViewColumn Width="300" Header="Title"  
+                        DisplayMemberBinding="{Binding nama}" />
+                        <GridViewColumn Width="500" Header="Path"
+                        DisplayMemberBinding="{Binding path}" />
+
+                    </GridView>
+                </ListView.View>
+
+            </ListView>
+
+        </Grid>
+        
+ 
+    </Grid>
+</Page>

@@ -1,0 +1,114 @@
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\AnimeSpace.exe.config
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\AnimeSpace.exe
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\AnimeSpace.pdb
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\MainWindow.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\Tabel.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace_MarkupCompile.cache
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace_MarkupCompile.lref
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\MainWindow.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\Tabel.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.g.resources
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.Properties.Resources.resources
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csproj.CopyComplete
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.exe
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.pdb
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\InstrumentUserControl.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\Window Test Dynamic Item.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\InstrumentUserControl.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\Window Test Dynamic Item.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignColors.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\App.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\MaterialDictionary.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageLibrary.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageLibrary.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\x86\WebView2Loader.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\x64\WebView2Loader.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\arm64\WebView2Loader.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageExplore.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace_Content.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageExplore.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageHistory.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageVideos.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageHistory.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\PageVideos.baml
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\FilesMonitoringWindow.g.cs
+C:\Users\Asus\Desktop\Anime Space\AnimeSpace\AnimeSpace\obj\Debug\View\FilesMonitoringWindow.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\FIX\AnimeSpace\obj\Debug\AnimeSpace.exe
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\FIX\AnimeSpace\obj\Debug\AnimeSpace.pdb
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\AnimeSpace.exe.config
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\AnimeSpace.exe
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\AnimeSpace.pdb
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.SqlServer.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignColors.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.EF6.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.Linq.dll
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\EntityFramework.SqlServer.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignColors.pdb
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\bin\Debug\System.Data.SQLite.xml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csprojAssemblyReference.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\FilesMonitoringWindow.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\InstrumentUserControl.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\MainWindow.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageExplore.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageHistory.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageLibrary.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageVideos.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\Tabel.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\Window Test Dynamic Item.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\App.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace_MarkupCompile.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace_MarkupCompile.lref
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\App.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\FilesMonitoringWindow.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\InstrumentUserControl.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\MainWindow.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\MaterialDictionary.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageExplore.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageHistory.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageLibrary.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\PageVideos.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\Tabel.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\View\Window Test Dynamic Item.baml
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.g.resources
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.Properties.Resources.resources
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csproj.GenerateResource.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csproj.CoreCompileInputs.cache
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.csproj.CopyComplete
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.exe
+E:\BAL\KULIAH 3,5 TAHUN!\semester 3\Pemrograman Lanjut\FP\AnimeSpace\AnimeSpace\obj\Debug\AnimeSpace.pdb

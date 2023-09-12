@@ -1,0 +1,44 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimeSpace"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="AnimeSpace.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Width="1366"
+        Height="730"
+        WindowStyle ="None"
+        
+        
+        WindowStartupLocation="CenterScreen"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        >
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome GlassFrameThickness="0,0,0,1" CornerRadius="0" />
+    </WindowChrome.WindowChrome>
+
+
+    <Grid>
+        <Frame x:Name="Main" Margin="0,0,0,0" NavigationUIVisibility="Hidden"></Frame>
+
+        <Grid Panel.ZIndex="1" Height="70" VerticalAlignment="Top" Background="#FF525253" materialDesign:ShadowAssist.ShadowDepth="Depth4" HorizontalAlignment="Right" Width="{Binding ElementName=Main, Path=ActualWidth}">
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Left">
+                <Button x:Name="BtnLibrary" FontWeight="Normal" Background="{x:Null}" BorderBrush="{x:Null}" Height="70" Width="auto" Margin="50,0,20,0" Click="BtnLibrary_Click">
+                    <TextBlock Text="LIBRARY" FontSize="30" VerticalAlignment="Center" />
+                </Button>
+                <Button x:Name="BtnExplore" FontWeight="Normal"  Background="{x:Null}" BorderBrush="{x:Null}" Height="70" Width="auto" Margin="0,0,30,0" Click="BtnExplore_Click">
+                    <TextBlock Text="EXPLORE" FontSize="30" VerticalAlignment="Center" />
+                </Button>
+
+                <!--  <TextBlock Text="Setting" VerticalAlignment="Center" FontSize="18" Height="30"/> -->
+                <!--  <materialDesign:PopupBox  Margin="0,10,20,10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False"/> -->
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>
